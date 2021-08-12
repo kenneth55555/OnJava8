@@ -1,7 +1,5 @@
 # 译者的话
 
-[![GitHub stars](https://img.shields.io/github/stars/lingcoder/OnJava8.svg?style=social&label=Star&)](https://github.com/lingcoder/OnJava8/stargazers)[![GitHub forks](https://img.shields.io/github/forks/lingcoder/OnJava8.svg?style=social&label=Fork&)](https://github.com/lingcoder/OnJava8/fork)
-
 本翻译项目的 GITHUB 开源地址：[https://github.com/LingCoder/OnJava8](https://github.com/LingCoder/OnJava8)
 
 如果你在阅读本书的过程中有发现不明白或者错误的地方，请随时到项目地址发布 issue 或者 fork 项目后发布 pr 帮助译者改善！不胜感激！
